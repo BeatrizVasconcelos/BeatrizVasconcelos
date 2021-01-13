@@ -1,5 +1,5 @@
 # Beatriz Vasconcelos
-[![Gmail Badge](https://img.shields.io/badge/-biavasconcelossss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:biavasconcelossss@gmail.com)](mailto:matheushenriquepires99@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-biavasconcelossss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:biavasconcelossss@gmail.com)](mailto:biavasconcelossss@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-BeatrizVasconcelos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-vasconcelos/)](https://www.linkedin.com/in/beatriz-vasconcelos/) 
 
 ## What's up 👋
