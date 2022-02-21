@@ -6,7 +6,7 @@
 Hi! I am Beatriz Vasconcelos from Brazil (🇧🇷).
 I am a Front-end developer 💻.
 
-- 🚀 I’m currently working at **ATS**.
+- 🚀 I’m currently working at **Capgemini**.
 - 👨🏻‍💻 Angular, MaterialUI and Node.js
 - 🌱 I’m currently learning ReactJS.
 - ⚡ In my free time I like to watch movies 🎞️ and series 📺, to listen to music 🎵, and of course: to go to the beach! 🌴
