@@ -4,10 +4,10 @@
 
 ## What's up 👋
 Hi! I am Beatriz Vasconcelos from Brazil (🇧🇷).
-I am a Front-end developer 💻.
+I am a Full-stack developer 💻.
 
-- 🚀 I’m currently working at **Capgemini**.
-- 👨🏻‍💻 Angular, MaterialUI and Node.js
-- 🌱 I’m currently learning ReactJS.
+- 🚀 I’m currently working.
+- 👨🏻‍💻 Angular, Java, TypeScript, Javascript, HTML, CSS
+- 🌱 I’m currently learning NodeJS.
 - ⚡ In my free time I like to watch movies 🎞️ and series 📺, to listen to music 🎵, and of course: to go to the beach! 🌴
 
