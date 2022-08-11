@@ -4,7 +4,7 @@
 
 ## What's up 👋
 Hi! I am Beatriz Vasconcelos from Brazil (🇧🇷).
-I am a Full-stack developer 💻.
+I am a Front-end developer 💻.
 
 - 🚀 I’m currently working.
 - 👨🏻‍💻 Angular, Java, TypeScript, Javascript, HTML, CSS
